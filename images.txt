@@ -1,2 +1,3 @@
 nginx:latest
 httpd:latest
+cadvisor:v0.49.1
