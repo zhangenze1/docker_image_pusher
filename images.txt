@@ -1,1 +1,3 @@
-php:8-apache
+zabbix-server-mysql:latest
+zabbix-web-nginx-mysql:latest
+zabbix/zabbix-agent:latest
